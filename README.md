@@ -1,4 +1,4 @@
 # first-demo
 This  is my first Repository.
 <br>
-Author - subhadra sahoo
+Author - subhadra (first-demo)
